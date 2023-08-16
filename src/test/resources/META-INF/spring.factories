@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.kosasih.\
+    finsavvy.config.TestContainersSpringContextCustomizerFactory,com.kosasih.\
+    finsavvy.config.SqlTestContainersSpringContextCustomizerFactory,com.kosasih.\
+    finsavvy.config.KafkaTestContainersSpringContextCustomizerFactory
